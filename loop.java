@@ -1,4 +1,4 @@
-class Main {
+class loop {
     public static void main(String[] args) {
      
       int[] age = {12, 4, 5};
